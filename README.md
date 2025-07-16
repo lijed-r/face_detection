@@ -18,7 +18,7 @@
 - ✅ Отображение информации на экране
 
 
-## 📸 Демонстрация
+## Демонстрация
 
 ![example1](https://github.com/user-attachments/assets/7f1a7f79-9ee9-4441-ae82-0f8921adb892)
 ![example2](https://github.com/user-attachments/assets/d1dc7d91-02e8-4509-a7e3-4c4d0b4c8e20)
