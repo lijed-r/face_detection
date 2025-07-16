@@ -1,4 +1,4 @@
-# 👁️‍🗨️ Face & Hand Detection with Identity and Emotion Recognition
+# Face & Hand Detection with Identity and Emotion Recognition
 
 Этот проект использует `OpenCV`, `MediaPipe` и `DeepFace` для:
 - определения лица в кадре с веб-камеры,
